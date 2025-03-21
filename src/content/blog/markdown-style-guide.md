@@ -2,7 +2,7 @@
 title: "欢迎来到我的博客！"
 description: "这里会写一些我的信息."
 pubDate: "Mar 20,2025"
-heroImage: "/blog-placeholder-6.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 ---
 
 这里会写一些我的信息
